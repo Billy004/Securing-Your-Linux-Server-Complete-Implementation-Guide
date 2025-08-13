@@ -1,4 +1,4 @@
 # Table of contents
 
-* [In-depth Guide](README.md)
-  * [Linux Server Security Platform](readme/linux-server-security-platform.md)
+* [Securing Your Linux Server](README.md)
+  * [Quik Security](readme/quik-security.md)
